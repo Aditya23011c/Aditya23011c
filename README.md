@@ -64,12 +64,12 @@ Detects AI-generated vs human voice samples across Indian languages.
 - Community & Event Organization  
 
 ---
-
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya23011c&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya23011c&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya23011c&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya23011c&layout=compact&theme=default)
+
 
 ---
 
