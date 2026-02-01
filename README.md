@@ -74,8 +74,8 @@ Detects AI-generated vs human voice samples across Indian languages.
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: *Add your LinkedIn link*  
-- 📧 Email: *Add your email*  
+- 💼 LinkedIn:   https://www.linkedin.com/in/adityaprakashgupta07/
+- 📧 Email: adityaprakashgupta76@gmail.com
 
 ---
 
