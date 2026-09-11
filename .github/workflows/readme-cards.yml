@@ -45,8 +45,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy card
-        run: |
-          curl -sL "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=radical&no-frame=true&row=1&column=6" -o profile/trophy.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
