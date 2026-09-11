@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Make sure output folder exists
+        run: mkdir -p profile
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -40,6 +43,10 @@ jobs:
           options: "theme=radical&hide_border=true"
           output_path: profile/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        run: |
+          curl -sL "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=radical&no-frame=true&row=1&column=6" -o profile/trophy.svg
 
       - name: Commit cards
         run: |
