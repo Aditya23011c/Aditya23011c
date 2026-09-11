@@ -44,7 +44,7 @@ open_to: ["AI/ML Internships", "Software Engineering Roles", "Hackathons"]
 ```
 
 - 🔭 Currently building **AI/ML-driven, real-world solutions** — from threat detection to health-tech digital twins
-- 🌱 Actively competing in hackathons — recent builds for **InnoHacks 4.0** and **Grand Hack IPEC**
+- 🌱 Actively competing in hackathons 
 - 🧠 Comfortable across the ML stack: data processing → model building → deployment
 - 💻 Also ship full-stack web apps when a project needs a front door (HTML/CSS/JS)
 - 🎯 Aspiring **AI/ML Engineer**, always turning ideas into working prototypes
@@ -103,11 +103,6 @@ open_to: ["AI/ML Internships", "Software Engineering Roles", "Hackathons"]
 
 <p align="center">
   <img src="./profile/activity-graph.svg" width="90%"/>
-</p>
-
-<!-- ================= TROPHIES ================= -->
-<p align="center">
-  <img src="./profile/trophy.svg" />
 </p>
 
 <!-- ================= ACHIEVEMENTS & CERTS ================= -->
