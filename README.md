@@ -10,6 +10,11 @@
   </a>
 </p>
 
+<!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya23011c/Aditya23011c/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
 <!-- ================= SOCIAL BADGES ================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/adityaprakashgupta07"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,7 +44,7 @@ open_to: ["AI/ML Internships", "Software Engineering Roles", "Hackathons"]
 ```
 
 - 🔭 Currently building **AI/ML-driven, real-world solutions** — from threat detection to health-tech digital twins
-- 🌱 Actively competing in hackathons
+- 🌱 Actively competing in hackathons — recent builds for **InnoHacks 4.0** and **Grand Hack IPEC**
 - 🧠 Comfortable across the ML stack: data processing → model building → deployment
 - 💻 Also ship full-stack web apps when a project needs a front door (HTML/CSS/JS)
 - 🎯 Aspiring **AI/ML Engineer**, always turning ideas into working prototypes
@@ -88,8 +93,8 @@ open_to: ["AI/ML Internships", "Software Engineering Roles", "Hackathons"]
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya23011c&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya23011c&layout=compact&theme=radical&hide_border=true" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
 <p align="center">
@@ -97,12 +102,12 @@ open_to: ["AI/ML Internships", "Software Engineering Roles", "Hackathons"]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya23011c&theme=radical&hide_border=true" width="90%"/>
+  <img src="./profile/activity-graph.svg" width="90%"/>
 </p>
 
 <!-- ================= TROPHIES ================= -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya23011c&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="./profile/trophy.svg" />
 </p>
 
 <!-- ================= ACHIEVEMENTS & CERTS ================= -->
